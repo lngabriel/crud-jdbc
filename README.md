@@ -93,16 +93,10 @@ mvn compile
 2 - Buscar por ID
 3 - Atualizar cliente
 4 - Deletar cliente
-5 - Sair
+5 - Listar clientes
+6 - Sair
 Opção: 1
 Nome: Gabriel
 Email: gabriel@email.com
 Cliente cadastrado!
 ```
-
-## Próximos passos
-
-- Implementar atualização, remoção e listagem
-- Separar o acesso a dados em uma camada `Repository`/DAO
-- Tratar erros de entrada do usuário
-- Migrar o projeto para **Spring Boot + Spring Data JPA**
