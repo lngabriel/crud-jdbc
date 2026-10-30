@@ -32,10 +32,10 @@ Aplicação de console em Java que faz o cadastro e a busca de clientes em um ba
 ```
 src/main/java/
 ├── Main.java                  # Menu de console
+├── Cliente.java               # Modelo de cliente
 ├── ClienteService.java        # Operações de banco para clientes
 └── connection/
     └── ConexaoBD.java         # Conexão com o PostgreSQL (Singleton)
-config.example.properties      # Modelo de configuração
 ```
 
 ## Como rodar
