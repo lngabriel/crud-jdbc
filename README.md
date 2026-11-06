@@ -6,9 +6,9 @@ Aplicação de console em Java que faz o cadastro e a busca de clientes em um ba
 
 - [x] Cadastrar cliente (nome e e-mail)
 - [x] Buscar cliente por ID
-- [ ] Atualizar cliente
-- [ ] Deletar cliente
-- [ ] Listar clientes
+- [x] Atualizar cliente
+- [x] Deletar cliente
+- [x] Listar clientes
 
 ## Tecnologias
 
